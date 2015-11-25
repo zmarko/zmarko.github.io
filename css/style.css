@@ -370,7 +370,7 @@ body {
   margin-left: 10px;
 }
 #header-title .title {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   line-height: 30px;
   color: rgba(255,255,255,0.7);
@@ -379,6 +379,14 @@ body {
 #header-title .title a {
   color: rgba(255,255,255,0.7);
   text-decoration: none;
+}
+#header-title .quote {
+  float: right;
+  text-align: right;
+  font-size: 16px;
+  font-style: italic;
+  color: rgba(255,255,255,0.7);
+  text-shadow: 0 1px rgba(0,0,0,0.2);
 }
 .nav-container .nav-icon,
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link {
