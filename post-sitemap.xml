@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://marko.zivanovic.in.rs/2015/12/10/syslog-bulk-uploader/</loc>
+        <lastmod>2015-12-10T14:01:11.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://marko.zivanovic.in.rs/2015/11/25/semver_parser_cpp/</loc>
         <lastmod>2015-11-25T14:36:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
