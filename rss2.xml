@@ -7,14 +7,14 @@
     <link>http://marko.zivanovic.in.rs/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     <description></description>
-    <pubDate>Thu, 10 Dec 2015 14:01:11 GMT</pubDate>
+    <pubDate>Thu, 10 Dec 2015 14:03:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title><![CDATA[Syslog Bulk Uploader Tool]]></title>
       <link>http://marko.zivanovic.in.rs/2015/12/10/syslog-bulk-uploader/</link>
       <guid>http://marko.zivanovic.in.rs/2015/12/10/syslog-bulk-uploader/</guid>
-      <pubDate>Thu, 10 Dec 2015 14:01:44 GMT</pubDate>
+      <pubDate>Thu, 10 Dec 2015 14:03:42 GMT</pubDate>
       <description>
       <![CDATA[Command line tool for sending logs from text files to syslog server.]]>
       
